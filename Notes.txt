@@ -1,0 +1,12 @@
+
+1. Create react ts project
+
+2. add the material UI library
+    npm install @mui/material @emotion/react @emotion/styled
+
+3. add the react router dom
+    npm i react-router-dom
+
+4. First step add routing setup
+
+5. 
